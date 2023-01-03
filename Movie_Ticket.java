@@ -680,7 +680,7 @@ class Movie_Ticket
                                     System.out.println("\t\t\t\t\t--------------------------------------------");
                                     System.out.println("\t\t\t\t\t\tTHANK YOU FOR USING MTBS....!!!!");
                                     System.out.println("\t\t\t\t\t\tDEVELOPED BY:--");
-                                    System.out.println("\t\t\t\t\t\tSHUBHAM GUPTA");
+                                    System.out.println("\t\t\t\t\t\tAYUSH JAIN");
                                     System.out.println("\t\t\t\t\t--------------------------------------------\n\n\n"); 
                                     return;
                                 }
